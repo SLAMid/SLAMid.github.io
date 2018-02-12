@@ -1,5 +1,8 @@
 
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: SLAMid
+description: Simultaneous Localization And Mapping (SLAM) and object identification.
+show_downloads: false
 google_analytics:
+github_repository_url: https://github.com/SLAMid
+github_is_project_page: true
+github_repository_name: SLAMid Github Repo
