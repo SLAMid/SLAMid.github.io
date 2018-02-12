@@ -18,9 +18,9 @@ Advisor: [Kristin Dana](http://www.ece.rutgers.edu/~kdana/)
 
 ## How?
 <u>Software that we're using</u>
-- LSD-SLAM
-- AWS Rekognition
-- ROS Indigo
+- [LSD-SLAM](https://vision.in.tum.de/research/vslam/lsdslam)
+- [AWS Rekognition](https://aws.amazon.com/rekognition/)
+- [ROS Indigo](http://wiki.ros.org/indigo)
 
 
-[Link to another page](another-page).
+<!-- [Link to another page](another-page). -->
