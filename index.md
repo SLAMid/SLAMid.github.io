@@ -8,7 +8,6 @@ The future of automation and robotics requires increasing independence from huma
 
 ## Who?
 Rutgers School of Engineering, ECE, Capstone Design, Spring 2018
-![Rutgers](download.png)
 
 Advisor: [Kristin Dana](http://www.ece.rutgers.edu/~kdana/)
 
@@ -26,7 +25,7 @@ Advisor: [Kristin Dana](http://www.ece.rutgers.edu/~kdana/)
 <u>Hardware that we're using</u>
 - [NVIDIA Jetson TK1](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
 - [Microsoft Kinect v2](https://developer.microsoft.com/en-us/windows/kinect)
-- [IRobot Create 2](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx)
+- [iRobot Create 2](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx)
 
 
 <!-- [Link to another page](another-page). -->
